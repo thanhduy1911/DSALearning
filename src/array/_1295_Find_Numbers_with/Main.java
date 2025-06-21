@@ -7,7 +7,7 @@ public class Main {
         int[] nums = {12,345,2,6,7896};
         int[] nums2 = {555,901,482,1771};
 
-        _1295_FindNumbersWithEvenNumberOfDigits result = new _1295_FindNumbersWithEvenNumberOfDigits();
+        FindNumbersWithEvenNumberOfDigits result = new FindNumbersWithEvenNumberOfDigits();
 
         System.out.println("Numbers With Even Number Of Digits: " + result.findNumbers(nums));
         System.out.println("Numbers With Even Number Of Digits: " + result.findNumbers(nums2));

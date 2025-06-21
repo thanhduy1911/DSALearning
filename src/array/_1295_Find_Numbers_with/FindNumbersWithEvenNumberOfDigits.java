@@ -1,6 +1,6 @@
 package array._1295_Find_Numbers_with;
 
-public class _1295_FindNumbersWithEvenNumberOfDigits {
+public class FindNumbersWithEvenNumberOfDigits {
     public int findNumbers(int[] nums) {
         int count = 0;
         for (int num : nums) {
