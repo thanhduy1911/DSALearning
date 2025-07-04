@@ -1,4 +1,4 @@
-package math._3304_FindTheK_th_Character_In_String_Game_I;
+package math._3304_Find_The_K_th_Character_In_String_Game_I;
 
 public class Main {
     public static void main(String[] args) {
