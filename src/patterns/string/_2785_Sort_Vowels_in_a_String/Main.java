@@ -1,4 +1,4 @@
-package patterns.array_hashing.string._2785_Sort_Vowels_in_a_String;
+package patterns.string._2785_Sort_Vowels_in_a_String;
 
 import java.util.ArrayList;
 import java.util.Collections;

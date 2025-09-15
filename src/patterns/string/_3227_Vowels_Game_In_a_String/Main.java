@@ -1,4 +1,4 @@
-package patterns.array_hashing.string._3227_Vowels_Game_In_a_String;
+package patterns.string._3227_Vowels_Game_In_a_String;
 
 public class Main {
     static String vowels = "aeiou";
