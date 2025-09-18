@@ -21,6 +21,6 @@ public class Main {
         return res;
     }
     public static void main(String[] args) {
-        System.out.println(Arrays.toString(sortedSquares(new int[]{-1, 0, 1, 2, 3, 4, 5})));
+        System.out.println(Arrays.toString(sortedSquares(new int[]{-4,-1,0,3,10})));
     }
 }
