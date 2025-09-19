@@ -1,7 +1,4 @@
-package patterns.sort._414_Third_Maximum_Number;
-
-import java.util.HashMap;
-import java.util.Map;
+package patterns.array_hashing.sort._414_Third_Maximum_Number;
 
 public class Main {
     public static void insert(long[] maxArray, int value) {

@@ -1,4 +1,4 @@
-package patterns.sort;
+package patterns.array_hashing.sort;
 
 public class Sorting {
     private static void printArray(int no, int[] arr) {
